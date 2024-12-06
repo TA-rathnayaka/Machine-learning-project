@@ -80,6 +80,6 @@ Ensure the following dependencies are installed:
 
 ### Clone the Repository
 ```bash
-git git@github.com:TA-rathnayaka/Machine-learning-project.git
+git clone git@github.com:TA-rathnayaka/Machine-learning-project.git
 
 
