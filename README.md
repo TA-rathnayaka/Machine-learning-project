@@ -80,5 +80,6 @@ Ensure the following dependencies are installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/auto-mpg-prediction.git
-cd auto-mpg-prediction
+git git@github.com:TA-rathnayaka/Machine-learning-project.git
+
+
