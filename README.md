@@ -1,4 +1,4 @@
-# Auto-MPG Dataset Analysis and Prediction
+# FuelPredictor
 
 ## 1. Introduction
 
